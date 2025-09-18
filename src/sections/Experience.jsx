@@ -22,7 +22,7 @@ export default function Experience() {
                         <TimelineItem icon={Souloxy} color="rgb(223, 109, 20)" to="https://www.linkedin.com/in/rishabhjainggsipu/">
                             <h4>Instant System Inc.</h4>
                             <TimeStamp stamp="2025" />
-                            <p>Worked as a Full Stack Web Developer using the MER(A)N stack. During this internship, I gained hands-on experience in working with production environments, writing and executing test cases, and creating documentation.</p>
+                            <p>Working as a Full Stack Web Developer using the MER(A)N stack. During this internship, I gained hands-on experience in working with production environments, writing and executing test cases, and creating documentation.</p>
                         </TimelineItem>
                     </Timeline>
                 </div>
