@@ -20,8 +20,8 @@ export default function Experience() {
                     <p>Gained hands-on experience through internship by contributing to real-world projects, implementing features, fixing bugs, and optimizing workflows. Collaborated with team members to deliver solutions and improve overall project quality.</p>
                     <Timeline>
                         <TimelineItem icon={Souloxy} color="rgb(223, 109, 20)" to="https://www.linkedin.com/in/rishabhjainggsipu/">
-                            <h4>Instant System Inc.</h4>
-                            <TimeStamp stamp="2025" />
+                            <h4>Instant System Inc. </h4>
+                            <TimeStamp stamp="July 2025 - Present" />
                             <p>Working as a Full Stack Web Developer using the MER(A)N stack. During this internship, I gained hands-on experience in working with production environments, writing and executing test cases, and creating documentation.</p>
                         </TimelineItem>
                     </Timeline>
