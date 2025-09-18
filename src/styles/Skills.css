@@ -1,0 +1,19 @@
+.skills-header {
+    display: flex;
+}
+
+.play-mode {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+
+    p {
+        margin: 0;
+        color: var(--clr-accent);
+    }
+}
+
+.play-info {
+    color: var(--clr-accent);
+    font-size: 14px;
+}

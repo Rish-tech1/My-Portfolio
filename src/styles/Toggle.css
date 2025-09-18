@@ -1,0 +1,29 @@
+.toggle-switch {
+  width: 3rem;
+  height: 1.5rem;
+  display: inline-block;
+  border-radius: 100px;
+  position: relative;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  border: 2px solid var(--clr-accent);
+}
+
+.toggle-switch.on {
+    background-color: var(--clr-accent-m1);
+}
+
+.toggle-switch .bob {
+  width: 1.2rem;
+  height: 1.2rem;
+  background-color: var(--clr-accent);
+  border-radius: 50%;
+  position: absolute;
+  top: 0.15rem;
+  left: 0.15rem;
+  transition: left 0.3s;
+}
+
+.toggle-switch.on .bob {
+  left: 1.65rem;
+}
