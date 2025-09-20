@@ -21,9 +21,10 @@ function App() {
       <About />
       <Skills />
       <Experience />
-      <Reviews />
-      <Education />
       <Projects />
+      <Education />
+      
+      <Reviews />
       <Contact />
       <Dock />
       <Tooltip />

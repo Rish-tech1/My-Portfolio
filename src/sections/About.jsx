@@ -23,8 +23,8 @@ export default function About() {
   broaden my technical expertise.
 </p>
 <p>
-  Currently, I am <span className="hl">seeking opportunities as a Full Stack Developer</span> 
-  where I can apply my skills, grow professionally, and build impactful, intelligent applications.
+  Currently, I am <span className="hl">seeking opportunities as a Full Stack Developer </span> 
+   where I can apply my skills, grow professionally, and build impactful, intelligent applications.
 </p>
 <p>Let’s innovate and create something impactful! 🚀</p>
 

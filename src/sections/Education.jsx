@@ -17,7 +17,7 @@ export default function Education() {
                 <div className='details'>
                     <Timeline>
                         <TimelineItem icon={<School />} bgColor="#444444">
-                            <h4>Rishabh Public School [10+2]</h4>
+                            <h4>Rishabh Public School</h4>
                             <TimeStamp stamp="2021 - 2022" />
                             <p>Intermediate</p>
                         </TimelineItem>
