@@ -49,7 +49,7 @@ export default function Skills() {
                 { 'name': 'Express', 'icon': 'express' },
                 { 'name': 'Next.js', 'icon': 'nextjs' },
                 { 'name': 'Supabase', 'icon': 'supabase' },
-                
+                { 'name': 'Firebase', 'icon': 'firebase' },
                 { 'name': 'REST APIs', 'icon': '' },
             ]} playMode={playMode} />
 
