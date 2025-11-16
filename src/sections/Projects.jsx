@@ -22,6 +22,20 @@ export default function Projects() {
           <CardActions visit="https://forever-frontend-hazel.vercel.app/" source="https://github.com/Rish-tech1/Forever-Brand" />
         </ProjectCard>
         <ProjectCard>
+          <img src='aifitness.png' alt='fitness' />
+          <Content>
+            <h3>FitFlowExercise – AI-Driven Fitness Platform</h3>
+            <p>Designed an AI-driven recommendation system to generate customized workout plans based on user goals and fitness levels.</p>
+            <Tags>
+              <Tag hashtag="Nodejs" />
+              <Tag hashtag="Reactjs" />
+              <Tag hashtag="TailwindCSS" />
+              <Tag hashtag="Opencv" />
+            </Tags>
+          </Content>
+          <CardActions visit="https://fitflow-excercise.vercel.app/" source="https://github.com/Rish-tech1/" />
+        </ProjectCard>
+        <ProjectCard>
           <img src='Screenshot (78).png' alt='Mojito' />
           <Content>
             <h3>Mojito Drink</h3>
@@ -65,7 +79,7 @@ export default function Projects() {
           </Content>
           <CardActions source="https://github.com/Rish-tech1/Ai-chatbot" />
         </ProjectCard>
-       
+        
       </Holder>
     </div>
   )

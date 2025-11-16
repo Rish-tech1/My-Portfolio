@@ -28,7 +28,7 @@ export default function About() {
 </p>
 <p>Let’s innovate and create something impactful! 🚀</p>
 
-      <a href="https://drive.google.com/file/d/1TcJvFeiiow55JyyMsxej-M2Am0u7piO7/view?usp=sharing" target='_blank'>
+      <a href="https://drive.google.com/file/d/1rhw2zoKiWQuyMUJMrV033cNrXacbeiLk/view?usp=sharing" target='_blank'>
         <Button1>
           <SvgIcon icon={Pdf} />
           Resume
